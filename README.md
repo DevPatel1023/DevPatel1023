@@ -5,8 +5,6 @@ Web Devloper
 ------------
 <h3 align="left">I am 3rd year computer engineering student</h3>
 
-
-* 🌍  I'm based in india
 * ✉️  You can contact me at [devp4143@gmail.com](mailto:devp4143@gmail.com)
 * 🚀  I'm currently working on [Spotify Clone Project](http://github.com/DevPatel1023/Spotify-Clone)
 * 🤝  I'm open to collaborating on intersting projects and new technologies
