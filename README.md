@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/UgV8Y7bDxsZDCP01eo/giphy.gif?cid=790b76113w2zf71xxyr9nq1trkscqtcttuvgn9i5ke38a2g5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="saturo-GOJO"  />
-
+<img align="right" height="150" src="https://media.giphy.com/media/UgV8Y7bDxsZDCP01eo/giphy.gif?cid=790b76113w2zf71xxyr9nq1trkscqtcttuvgn9i5ke38a2g5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
