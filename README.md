@@ -16,9 +16,7 @@ I'm passionate about exploring new technologies and building innovative solution
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPatel1023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/DevPatel1023/DevPatel1023/blob/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-</div>
+
 
 ## Tech Stack
 
@@ -90,4 +88,7 @@ I'm passionate about exploring new technologies and building innovative solution
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DevPatel1023/DevPatel1023/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph (Dark Theme)" />
+</div>
 
