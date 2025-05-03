@@ -91,7 +91,3 @@ I'm passionate about exploring new technologies and building innovative solution
 
 ---
 
-<div align="center">
-  <h3>👾 Check out my Pacman contribution animation! 👾</h3>
-  <p><i>Refreshes every 12 hours via GitHub Actions</i></p>
-</div>
