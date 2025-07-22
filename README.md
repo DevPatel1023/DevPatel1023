@@ -70,7 +70,7 @@ I'm a Computer Engineer who believes that good code is like a good joke – if y
 
 ---
 
-## 📊 GitHub Stats (Because We All Love Numbers)
+## 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1023&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Dev's%20GitHub%20Stats" height="170" alt="GitHub Statistics" />
@@ -110,7 +110,7 @@ class CurrentProjects:
 
 ---
 
-## 📈 Coding Activity (My GitHub Looks Healthier Than My Sleep Schedule)
+## 📈 Coding Activity ~ My GitHub Looks Healthier Than My Sleep Schedule ; )
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevPatel1023&theme=tokyo-night&hide_border=true&area=true&custom_title=Dev's%20Coding%20Journey" alt="Contribution Activity" />
