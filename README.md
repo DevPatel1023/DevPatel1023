@@ -1,148 +1,179 @@
-# Hi there 👋! I'm Dev - Computer Engineer
+# Dev Patel | Computer Engineer
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="auto" />
+  <h3>Computer Engineer | Full-Stack Developer | Code Enthusiast</h3>
+  <p><em>Building elegant solutions through clean code and thoughtful architecture</em></p>
 </div>
 
-<div align="center">
-  <h3>🚀 Passionate Computer Engineer | Full-Stack Developer | Innovation Enthusiast</h3>
-  <p>Building the future, one line of code at a time</p>
-</div>
+```typescript
+const devPatel = {
+  name: "Dev Patel",
+  title: "Computer Engineer",
+  location: "Gujarat, India",
+  
+  currentlyWorking: "Full-stack applications with modern tech stack",
+  currentlyLearning: ["Advanced React patterns", "Cloud architecture", "System design"],
+  
+  askMeAbout: ["Web development", "Data structures", "System optimization"],
+  funFact: "I debug code faster than I debug my life 🐛",
+  
+  workingOn: {
+    frontend: ["React", "TypeScript", "Next.js"],
+    backend: ["Node.js", "Python", "MongoDB"],
+    tools: ["Docker", "Git", "VS Code"],
+    architecture: ["Microservices", "RESTful APIs", "Cloud-native apps"]
+  }
+};
+```
 
 ---
 
-## 🎯 About Me
+## 🧠 About This Developer
 
-<img align="right" height="150" src="https://media.giphy.com/media/UgV8Y7bDxsZDCP01eo/giphy.gif?cid=790b76113w2zf71xxyr9nq1trkscqtcttuvgn9i5ke38a2g5&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+I'm a Computer Engineer who believes that good code is like a good joke – if you have to explain it, it's probably not that good. I spend my days crafting elegant solutions, optimizing algorithms, and occasionally wondering why my code works on my machine but nowhere else.
 
-I'm a dedicated Computer Engineer with a passion for exploring cutting-edge technologies and crafting innovative solutions. My journey in technology is driven by curiosity and the desire to solve complex problems through elegant code.
+**What drives me:**
+- Writing clean, maintainable code that future-me will thank present-me for
+- Solving complex problems with simple, elegant solutions  
+- Building scalable applications that can handle real-world chaos
+- Contributing to the open-source community (because sharing is caring!)
 
-**🌟 What I Do:**
-- 💻 Full-stack web development
-- 🔧 Building scalable applications
-- 📊 Data analysis and visualization
-- 🚀 Exploring emerging technologies
-
-**🎯 Current Focus:**
-- Advanced React patterns
-- Cloud computing solutions
-- Machine learning applications
-- Open source contributions
+**Currently obsessing over:**
+- React performance patterns and optimization techniques
+- Distributed systems and microservices architecture
+- Machine learning integration in web applications
+- The eternal quest for the perfect development environment
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=15&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPatel1023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&border_radius=15&cache_seconds=86400" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DevPatel1023&theme=dracula&hide_border=false&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
-</div>
-
----
-
-## 🛠️ Technology Stack
-
-### **Programming Languages**
+### **Languages I Speak (Fluently)**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript" height="40" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c" height="35" alt="Programming Languages" />
 </div>
 
-### **Frontend Development**
+### **Frontend Magic** ✨
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,sass,bootstrap,tailwind" height="40" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass,tailwind" height="35" alt="Frontend Technologies" />
 </div>
 
-### **Backend Development**
+### **Backend Wizardry** 🧙‍♂️
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman" height="40" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,firebase,postman" height="35" alt="Backend Technologies" />
 </div>
 
-### **Tools & Platforms**
+### **DevOps & Tools** 🔧
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,intellij,kaggle,docker" height="40" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux" height="35" alt="Development Tools" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-### 🔥 Current Projects
-- 🌐 **Portfolio Website** - Modern, responsive personal portfolio
-- 📱 **Task Management App** - Full-stack productivity application
-- 🤖 **AI Chat Assistant** - Intelligent conversational interface
-- 📊 **Data Visualization Dashboard** - Interactive analytics platform
-
----
-
-## 📈 Contribution Activity
+## 📊 GitHub Stats (Because We All Love Numbers)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevPatel1023&theme=dracula&hide_border=true&border_radius=15&custom_title=Dev's%20Contribution%20Graph&area=true&point=off" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1023&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Dev's%20GitHub%20Stats" height="170" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPatel1023&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" height="170" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevPatel1023&theme=dracula" alt="Profile Summary" />
+  <img src="https://streak-stats.demolab.com/?user=DevPatel1023&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF" height="170" alt="Contribution Streak" />
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🚀 Current Projects & Experiments
+
+```python
+class CurrentProjects:
+    def __init__(self):
+        self.in_progress = [
+            "React Performance Dashboard - Real-time analytics with optimized rendering",
+            "Microservices Task Manager - Distributed system with event-driven architecture", 
+            "ML-Powered Chat Assistant - NLP integration with modern web stack",
+            "DevOps Pipeline - Automated CI/CD with containerization"
+        ]
+        
+    def get_latest_obsession(self):
+        return "Trying to make my React components render faster than my attention span"
+        
+    def coffee_to_code_ratio(self):
+        return "Approximately 3:1 (and rising)"
+```
+
+### **Open Source Contributions**
+- 🔧 Maintaining utility libraries for the JavaScript ecosystem
+- 📚 Writing technical documentation that doesn't make people cry
+- 🐛 Finding and fixing bugs in projects I accidentally depend on
+- 💡 Contributing to React community tools and resources
+
+---
+
+## 📈 Coding Activity (My GitHub Looks Healthier Than My Sleep Schedule)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevPatel1023&theme=tokyo-night&hide_border=true&area=true&custom_title=Dev's%20Coding%20Journey" alt="Contribution Activity" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevPatel1023&theme=tokyonight" alt="Profile Overview" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevPatel1023&theme=tokyonight&utc_offset=5.5" alt="Productive Hours" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevPatel1023&theme=tokyonight" alt="Top Languages by Commits" />
+</div>
+
+---
+
+## 🌐 Connect With This Human
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patel-dev-02513b26a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Networking-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/PatelDev1023" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://stackoverflow.com/users/21240323/dev-patel" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" alt="Stack Overflow" />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord" />
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Helping%20Debug%20Lives-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </div>
 
 ---
 
-## 💡 Fun Facts
+## 💭 Developer Philosophy
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🌱</td>
-      <td>Currently learning advanced React patterns and cloud architecture</td>
-    </tr>
-    <tr>
-      <td>⚡</td>
-      <td>I love solving algorithmic challenges and contributing to open source</td>
-    </tr>
-    <tr>
-      <td>🎯</td>
-      <td>Always excited to collaborate on innovative projects</td>
-    </tr>
-    <tr>
-      <td>📫</td>
-      <td>Feel free to reach out for tech discussions or collaboration opportunities</td>
-    </tr>
-  </table>
-</div>
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
+
+**What I believe in:**
+- 🧹 **Clean Code**: Because future you will either thank you or hunt you down
+- 🔄 **Continuous Learning**: The day you stop learning is the day you become legacy code
+- 🤝 **Collaboration**: Great software is built by teams, not heroes
+- 🐛 **Debugging**: It's like being a detective in a crime movie where you're also the murderer
+- ☕ **Coffee-Driven Development**: Turning caffeine into code since forever
+
+---
+
+## 🎯 Random Dev Facts
+
+- 🌱 Currently deep-diving into advanced system design patterns
+- ⚡ I can center a div in CSS (most of the time)
+- 🎯 My code works on the first try approximately 12% of the time
+- 📚 I read documentation for fun (don't judge)
+- 🔍 Still searching for that perfect code editor theme
+- 💡 My rubber duck debugging assistant has heard things...
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevPatel1023&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DevPatel1023?style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=DevPatel1023&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DevPatel1023?style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Commits-Daily%20Driver-brightgreen?style=for-the-badge" alt="Commit Frequency" />
 </div>
 
 <div align="center">
-  <h3>✨ "Innovation distinguishes between a leader and a follower" - Steve Jobs ✨</h3>
-  <p><em>Thanks for visiting my profile! Let's build something amazing together! 🚀</em></p>
+  <h3>🚀 Always ready for the next coding adventure!</h3>
+  <p><em>Feel free to reach out if you want to discuss tech, collaborate on projects, or debate tabs vs spaces (team spaces, obviously)</em></p>
 </div>
