@@ -34,12 +34,12 @@ I'm a dedicated Computer Engineer with a passion for exploring cutting-edge tech
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=15" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPatel1023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&border_radius=15" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPatel1023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=15&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevPatel1023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&border_radius=15&cache_seconds=86400" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevPatel1023&theme=dracula&hide_border=false&border_radius=15" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DevPatel1023&theme=dracula&hide_border=false&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
 </div>
 
 ---
@@ -83,11 +83,16 @@ I'm a dedicated Computer Engineer with a passion for exploring cutting-edge tech
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DevPatel1023/DevPatel1023/output/pacman-contribution-graph.svg" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevPatel1023&theme=dracula&hide_border=true&border_radius=15&custom_title=Dev's%20Contribution%20Graph&area=true&point=off" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevPatel1023&theme=dracula&hide_border=true&border_radius=15" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevPatel1023&theme=dracula" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevPatel1023&theme=dracula&utc_offset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevPatel1023&theme=dracula" alt="Repos Per Language" />
 </div>
 
 ---
