@@ -90,11 +90,6 @@ I'm a dedicated Computer Engineer with a passion for exploring cutting-edge tech
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevPatel1023&theme=dracula" alt="Profile Summary" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevPatel1023&theme=dracula&utc_offset=5.5" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevPatel1023&theme=dracula" alt="Repos Per Language" />
-</div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate
