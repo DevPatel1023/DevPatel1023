@@ -63,10 +63,8 @@ Git • Docker • AWS • Linux • Postman • VS Code • RESTful APIs
 ## Current Projects
 
 **🔧 Active Development**
-- **Performance Analytics Dashboard** - React-based real-time monitoring system
-- **Distributed Task Manager** - Microservices architecture with event-driven design
-- **AI-Powered Assistant** - NLP integration with modern web framework
-- **DevOps Automation Pipeline** - Containerized CI/CD with comprehensive testing
+- **Manara** - Next.js and go-lang based project management tool
+
 
 **🌟 Open Source**
 - Contributing to JavaScript and full stack projects
