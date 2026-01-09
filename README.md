@@ -68,7 +68,6 @@ Git • Docker • AWS • Linux • Postman • VS Code • RESTful APIs
 
 **🌟 Open Source**
 - Contributing to JavaScript and full stack projects
-- Maintaining documentation for developer resources
 - Bug fixes and feature enhancements for community projects
 
 ---
