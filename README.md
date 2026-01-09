@@ -62,11 +62,11 @@ Git • Docker • AWS • Linux • Postman • VS Code • RESTful APIs
 
 ## Current Projects
 
-**🔧 Active Development**
+** Active Development**
 - **Manara** - Next.js and go-lang based project management tool
 
 
-**🌟 Open Source**
+** Open Source**
 - Contributing to JavaScript and full stack projects
 - Bug fixes and feature enhancements for community projects
 
