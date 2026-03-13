@@ -4,7 +4,7 @@
   
 **Full-Stack Developer**
 
-*Code it. Ship it. Scale it*
+*learn. build. Scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel-dev-02513b26a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/PatelDev1023)
@@ -14,8 +14,9 @@
 
 ---
 
-## Building from zero
-I build from zero. Passionate about writing clean, maintainable code and building scalable applications that solve complex business problems. Experience with modern web technologies, cloud platforms, and agile development practices.
+## About 
+
+I am Passionate about writing clean, maintainable code and building scalable applications that solve complex  problems. Experience with modern web technologies, cloud platforms, and agile development practices.
 
 **Core Focus Areas:**
 - Full-stack web application development
@@ -52,14 +53,15 @@ Git • Docker • AWS • Linux • Postman • VS Code • RESTful APIs
 ## Current Projects
 
 - [Shatranj](https://github.com/DevPatel1023/shatranj) — Multiplayer chess platform with real-time gameplay over WebSockets
-- [Manara](https://github.com/DevPatel1023/manara) — Project management tool with task tracking and team collaboration
-- [Go-Redis](https://github.com/DevPatel1023/go-redis) — Redis CLI implementation built from scratch in Go
-- [Agro Scan](https://github.com/DevPatel1023/agro-scan) — Crop disease detection system powered by machine learning
-- [Paytm](https://github.com/DevPatel1023/paytm) — Digital wallet and peer-to-peer payment system clone
-- [Link-Node](https://github.com/DevPatel1023/link-node) — Full-stack social media platform with posts, follows, and feeds
-- [Terminal Music](https://github.com/DevPatel1023/terminal-music) — Terminal-based music player built as a CLI tool
-- [Voice Assistant](https://github.com/DevPatel1023/voice-assistant) — Jarvis-like voice assistant built with Python
- 
+- [Manara](https://github.com/DevPatel1023/Manara) — Project management tool with task tracking and team collaboration
+- [Go-Redis](https://github.com/DevPatel1023/Reddis_cli) — Redis CLI implementation built from scratch in Go
+- [Agro Scan](https://github.com/DevPatel1023/agri_scan) — Crop disease detection system powered by machine learning
+- [Paytm](https://github.com/DevPatel1023/PayTM) — Digital wallet and peer-to-peer payment system clone
+- [Link-Node](https://github.com/DevPatel1023/Link_Node) — Full-stack social media platform with posts, follows, and feeds
+- [Terminal Music](https://github.com/DevPatel1023/terminal_music) — Terminal-based music player built as a CLI tool
+- [Voice Assistant](https://github.com/DevPatel1023/Voice_Assistance_Python) — Jarvis-like voice assistant built with Python
+- [medium_clone](https://github.com/DevPatel1023/medium_clone) — blog reading,writing platform
+- [job portal](https://github.com/DevPatel1023/JobPortal) — job search, apply, hired platform
 
 
 ---
